@@ -37,9 +37,9 @@ export function Header() {
             <ChefHat className={`h-8 w-8 ${isScrolled ? "text-violet-600" : "text-white"}`} />
             <h1 className={`text-4xl font-bold ${isScrolled ? "text-gray-900" : "text-white"}`}>Kemangi Catering</h1>
           </div>
-          <p className={`text-lg italic ${isScrolled ? "text-violet-600" : "text-violet-100"}`}>
+          <!-- <p className={`text-lg italic ${isScrolled ? "text-violet-600" : "text-violet-100"}`}>
             Makanan Lezat, Pelayanan Terbaik
-          </p>
+          </p> -->
         </div>
 
         <nav className={`py-3 ${isScrolled ? "" : "bg-violet-700/30"} rounded-lg`}>
