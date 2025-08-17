@@ -10,10 +10,10 @@ export function Footer() {
           <Link href="#" className="hover:opacity-80 transition-opacity">
             <Facebook size={24} />
           </Link>
-          <Link href="#" className="hover:opacity-80 transition-opacity">
+          <Link href="https://www.instagram.com/kemangi.delicious/" className="hover:opacity-80 transition-opacity">
             <Instagram size={24} />
           </Link>
-          <Link href="https://wa.me/6281234567890" className="hover:opacity-80 transition-opacity">
+          <Link href="https://wa.me/6281327746081" className="hover:opacity-80 transition-opacity">
             <MessageCircle size={24} />
           </Link>
         </div>

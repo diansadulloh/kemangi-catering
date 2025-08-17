@@ -24,7 +24,7 @@ export function About() {
                       <strong>Alamat:</strong> Jl. Kemangi No. 123, Jakarta Selatan
                     </p>
                     <p>
-                      <strong>Telepon:</strong> (021) 12345678
+                      <strong>WhatsApp:</strong> +62 813-2774-6081
                     </p>
                     <p>
                       <strong>Email:</strong> info@kemangicatering.com

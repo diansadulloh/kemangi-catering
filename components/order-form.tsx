@@ -63,7 +63,7 @@ export function OrderForm() {
   }
 
   const whatsappMessage = encodeURIComponent("Halo Kemangi Catering, saya ingin memesan katering")
-  const whatsappUrl = `https://wa.me/6281234567890?text=${whatsappMessage}`
+  const whatsappUrl = `https://wa.me/626281327746081?text=${whatsappMessage}`
 
   return (
     <section id="pesan" className="py-20 bg-gradient-to-br from-lavender-50 to-white">
